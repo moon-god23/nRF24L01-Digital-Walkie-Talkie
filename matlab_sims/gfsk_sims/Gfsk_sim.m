@@ -1,3 +1,5 @@
+%this code is to simulate the gfsk modulation for bt values BT=0.3,0.5,0.7,1 with AWGN and Rayleigh Channels.
+%It outputs two graphs, BER(Bit Error Rate) and PSD(Power Spectral Density).
 
 clear; close all; clc;
 
