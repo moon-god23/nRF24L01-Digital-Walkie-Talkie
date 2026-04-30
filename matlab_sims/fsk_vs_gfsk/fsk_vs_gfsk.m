@@ -1,3 +1,6 @@
+%this code is to simulate the fsk and gfsk modulation for bt values BT=0.5 and BT=1
+%it outputs two graphs BER(Bit Error Rate) and PSD(Power Spectral Density)
+
 clear; close all; clc;
 
 %--- 1. Simulation Parameters ---
