@@ -1,3 +1,4 @@
+//Arduino code that is used the arduino of both reciever and transmitter
 #include <SPI.h>
 #include <RF24.h>
 #include <RF24Audio.h>
