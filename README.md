@@ -1,4 +1,4 @@
-# nRF24L01-Digital-Walkie-Talkie+
+nRF24L01-Digital - Trasnsreciever 
 
 A 2.4GHz digital voice transceiver using Arduino, nRF24L01+, and GFSK modulation, featuring MATLAB simulations for BT-product optimization and spectral efficiency.
 
